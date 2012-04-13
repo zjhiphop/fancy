@@ -1,0 +1,3 @@
+[submodule "jsgamebench"]
+	path = jsgamebench
+	url = https://github.com/facebook/jsgamebench.git
