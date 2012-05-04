@@ -1,3 +1,13 @@
 [submodule "jsgamebench"]
 	path = jsgamebench
 	url = https://github.com/facebook/jsgamebench.git
+[submodule "compose"]
+	path = js/lib/compose
+	url = https://github.com/kriszyp/compose.git
+[submodule "jquery"]
+	path = js/lib/jquery
+	url = https://github.com/jquery/jquery.git
+[submodule "underscore"]
+	path = js/lib/underscore
+	url = https://github.com/documentcloud/underscore.git
+	

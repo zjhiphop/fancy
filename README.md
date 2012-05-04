@@ -1,14 +1,19 @@
 #_HTML5 Games_  
+![HTML5 Games Architech](fancy/raw/master/git-resourses/html5 games.png)   
+
 * * *  
 ##How to prototype a html5 game?    
+*	think an idea,and use XMind to show it's rough demo   
+*	build an html fake demo   
+*	promote to an game product  
 * * *
 ##What's the steps to build a html5 game?   
-*build a framework:  
-###1.build basic component: eventproxy,keyboard,player,level  
+*  build a framework:  
+###1.build basic component: eventproxy,keyboard,player,level,stroe  
 ###2.build util gadget: stage,layer,sprite,container(role),action   
 ###3.build some extra effect component,eg:'partical'   
-*find a good idea,and prototype it    
-*make sure every parts in a game:  
+*	find a good idea,and prototype it    
+*	make sure every parts in a game:  
 ###1.A game should have a 'stage' or 'scene' first  
 ###2.Every 'stage' should have it's own  'layer'   
 ###3.Every 'layer' should have it's 'sprite' and 'media'     
@@ -18,6 +23,12 @@
 ###7.A good game should have some cool effect.eg: 'partical','pausate' etc.  
 * * *
 ##Best practices?  
+*	
 
 
+###Notes:
+1.Every JS file should fllow CommonJS spec  
+2.Do more CSS3&HTML5 function	
+3.Try to use Compose lib to architech   
+4.All game based on canvas 	
 
